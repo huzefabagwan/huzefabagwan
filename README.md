@@ -58,16 +58,27 @@
 
 ---
 
-# 📊 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzefabagwan&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=huzefabagwan&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🔥 Current Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+```python
+class HuzefaBagwan:
+
+    def __init__(self):
+        self.name = "Huzefa Bagwan"
+        self.role = "AI/ML Engineer"
+        self.language_spoken = ["Python", "JavaScript", "TypeScript"]
+
+    def say_hi(self):
+        print("Thanks for visiting my profile 🚀")
+
+
+me = HuzefaBagwan()
+me.say_hi()
