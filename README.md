@@ -44,16 +44,24 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzefabagwan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzefabagwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzefabagwan&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=huzefabagwan&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzefabagwan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzefabagwan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzefabagwan&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -62,12 +70,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# ✨ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzefabagwan&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
