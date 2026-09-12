@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://portfolio-website-m5der6jyk-huzefa-bagwans-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://portfolio-website-five-chi-68.vercel.app/-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
